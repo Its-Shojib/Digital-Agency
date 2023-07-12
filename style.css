@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* **Navbar Section** */
+nav{
+    display: flex;
+    background-color: black;
+    color: bisque;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 10px;
+}
+.nav-link{
+    display: flex;
+}
+.nav-link a{
+    text-decoration: none;
+    color: bisque;
+    padding: 0px 15px;
+    font-size: 20px;
+}
