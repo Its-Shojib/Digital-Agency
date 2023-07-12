@@ -21,3 +21,47 @@ nav{
     padding: 0px 15px;
     font-size: 20px;
 }
+
+/* **Digital Section** */
+.digital{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-image: url('./asset/image/background.jpg'),linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4));;
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+.digital-text{
+    max-width: 60%;
+    text-align: center;
+    color: white;
+}
+.red{
+    color: red;
+}
+.digital-title{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.btn-red{
+    margin: 10px;
+    padding: 10px;
+    font-size:18px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    cursor:pointer;
+    
+}
+.btn-white{
+    margin: 10px;
+    padding: 10px;
+    font-size:18px;
+    border: none;
+    border-radius: 5px;
+    background-color:white;
+    cursor:pointer; 
+}
