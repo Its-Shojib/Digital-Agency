@@ -69,7 +69,7 @@ nav{
 /* **Service Section** */
 
 .service{
-    background-image: url("./asset/image/footer-bg.png"),linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9));
+    background-image: url("./asset/image/footer-bg.png"), linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9));
     background-blend-mode: overlay;
     height: 100vh;
     display: flex;
